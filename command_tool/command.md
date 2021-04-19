@@ -1,3 +1,6 @@
+### 输出环境变量
+    echo $PATH
+
 ### 根据程序名查看进程 (pid)
     ps -ef | grep 程序名 | grep -v grep 
 
